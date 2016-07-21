@@ -1,1 +1,1 @@
-git commit -m "[01] init website."
+git commit -m "[02] add title and header."

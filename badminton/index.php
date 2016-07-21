@@ -1,3 +1,4 @@
 <?php
-    echo 'Hello World!'
+    $page_title = 'Welcome to Badminton!';
+    require_once('header.php');
 ?>

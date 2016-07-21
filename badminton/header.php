@@ -3,7 +3,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
         <?php
-            echo '<title>Badminton </title>';
+            echo '<title>Badminton - '.$page_title.'</title>';
         ?>
 
         <link rel="stylesheet" type="text/css" href="style.css" /> 
@@ -11,5 +11,5 @@
     <body>
 
 <?php
-    echo '<h3>Welcome to Badminton Page!</h3>';
+    echo '<h3>Badminton - '.$page_title.'</h3>';
 ?>
