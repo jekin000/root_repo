@@ -1,1 +1,1 @@
-git commit -m "[05] add table design"
+git commit -m "[06] add sample dashboard"
